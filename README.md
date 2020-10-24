@@ -1,8 +1,9 @@
 # logger
 A easy to use console logger
 
-example
-```
+example:
+```js
 const logger = require('easy-console-logger-nodejs')
 
 logger.log('hi')
+```
