@@ -1,0 +1,8 @@
+{
+  "name": "easy-console-logger-nodejs",
+  "version": "1.0.0",
+  "description": "Makes it easier to console log stuff",
+  "main": "index.js",
+  "author": "tovade",
+  "license": "ISC"
+}
